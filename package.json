@@ -12,7 +12,9 @@
 	},
 	"devDependencies": {
 		"babel-jest": "21.2.0",
+		"babel-plugin-root-import": "^5.1.0",
 		"babel-preset-react-native": "4.0.0",
+		"babel-preset-react-native-stage-0": "^1.0.1",
 		"jest": "21.2.1",
 		"react-test-renderer": "16.0.0-alpha.12"
 	},
